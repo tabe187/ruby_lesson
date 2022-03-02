@@ -1,0 +1,3 @@
+name = "とおる"
+puts name
+
